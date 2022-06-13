@@ -58,7 +58,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = © Created By ® Ridho 
 global.author = ® created by DinoBotz v2
-global.wm = '® Ridho'
+global.wm = '® DinoBotz V2'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
